@@ -6,7 +6,7 @@ I am a software devloper from Nigeria, I code more frequently with Javascript/Ty
  - I have been learninng and working on Bitcoin projects for 8 months, and I am totaly in love with Bitcoin because means "Freedom and transparency" to me.
  - I have also worked on frontend projects using Reactjs and cross platform mobile applicaitons using Reactnative
 
-You can visit my Medium blog to read my articles [https://raphtyosaze.medium.com/].
+You can visit my Medium blog to read my articles https://raphtyosaze.medium.com/
 
 <!--
 **elraphty/elraphty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
